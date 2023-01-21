@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Google Maps Drawing Manager Integration in React  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://github.com/ultimateakash/react-google-maps-drawing-manager/blob/master/public/react-google-maps-drawing-manager.png"></p>
 
 ## Available Scripts
 
