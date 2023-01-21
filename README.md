@@ -1,4 +1,4 @@
-# Google Maps Drawing Manager Integration in React  
+# Integrate Google Maps Drawing Manager in React
 
 <p align="center"><img src="https://github.com/ultimateakash/react-google-maps-drawing-manager/blob/master/public/react-google-maps-drawing-manager.png"></p>
 
